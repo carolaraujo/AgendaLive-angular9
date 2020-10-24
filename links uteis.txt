@@ -1,0 +1,3 @@
+responsividade https://tburleson-layouts-demos.firebaseapp.com/#/docs
+instalar flex-layout https://www.npmjs.com/package/@angular/flex-layout
+material ui angular https://material.angular.io/components/card/examples
